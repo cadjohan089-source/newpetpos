@@ -1,0 +1,13 @@
+{
+    "name": "axcel/posale",
+    "description": "POS system with thermal printing via QZ Tray + ESC/POS",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "mike42/escpos-php": "^4.0"
+    },
+    "config": {
+        "vendor-dir": "vendor",
+        "optimize-autoloader": true
+    }
+}

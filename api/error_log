@@ -1,0 +1,20 @@
+[04-Jun-2026 08:04:46 UTC] PHP Warning:  require_once(/home/axcelstudio/posale.axcelstudio.com/api/../includes/auth.php): Failed to open stream: No such file or directory in /home/axcelstudio/posale.axcelstudio.com/api/queue.php on line 2
+[04-Jun-2026 08:04:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/axcelstudio/posale.axcelstudio.com/api/../includes/auth.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/axcelstudio/posale.axcelstudio.com/api/queue.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/axcelstudio/posale.axcelstudio.com/api/queue.php on line 2
+[04-Jun-2026 08:04:46 UTC] PHP Warning:  require_once(/home/axcelstudio/posale.axcelstudio.com/api/../includes/auth.php): Failed to open stream: No such file or directory in /home/axcelstudio/posale.axcelstudio.com/api/queue.php on line 2
+[04-Jun-2026 08:04:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/axcelstudio/posale.axcelstudio.com/api/../includes/auth.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/axcelstudio/posale.axcelstudio.com/api/queue.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/axcelstudio/posale.axcelstudio.com/api/queue.php on line 2
+[04-Jun-2026 08:04:46 UTC] PHP Warning:  require_once(/home/axcelstudio/posale.axcelstudio.com/api/../includes/auth.php): Failed to open stream: No such file or directory in /home/axcelstudio/posale.axcelstudio.com/api/queue.php on line 2
+[04-Jun-2026 08:04:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/axcelstudio/posale.axcelstudio.com/api/../includes/auth.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/axcelstudio/posale.axcelstudio.com/api/queue.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/axcelstudio/posale.axcelstudio.com/api/queue.php on line 2
+[04-Jun-2026 08:05:06 UTC] PHP Warning:  require_once(/home/axcelstudio/posale.axcelstudio.com/api/../includes/auth.php): Failed to open stream: No such file or directory in /home/axcelstudio/posale.axcelstudio.com/api/queue.php on line 2
+[04-Jun-2026 08:05:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/axcelstudio/posale.axcelstudio.com/api/../includes/auth.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/axcelstudio/posale.axcelstudio.com/api/queue.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/axcelstudio/posale.axcelstudio.com/api/queue.php on line 2
